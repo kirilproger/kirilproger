@@ -21,10 +21,10 @@ Actively participate in student programming contests ICPC
 Projects
 --------------------
 
-     * **Text Classification**(github.com/kirilproger/TextClassification)
+* **Text Classification**(github.com/kirilproger/TextClassification)
      In the first part of the project, I collected my own dataset from news texts and trained some models on it. 
      In the second part, I used a ready-made dataset from HuggingFace and using PyTorch I created CNN and trained it.
-     * **Several simple applications on the Qt Widgets**
+* **Several simple applications on the Qt Widgets**
      “Tic tac toe game” (https://github.com/kirilproger/tictaktoe) 
      “Weight tracking app” (https://github.com/kirilproger/MyWeight) 
      “Cost Manager” (https://github.com/kirilproger/CostManager) 
