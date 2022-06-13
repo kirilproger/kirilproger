@@ -12,10 +12,13 @@ Skills
 ----------
 
 Python (numpy,pandas, matplotlib, scikit-learn, familiar with the PyTorch), 
+
 NLP, С++, Git, SQL, algorithms and data structures, OOP, 
+
 mathematical analysis, linear algebra, discrete math, math statistics.
 
 Actively participate in student programming contests ICPC 
+
 (2019/2020 – 3rd place(1/8), 2020/2021 -2nd place(1/8), 4th place(1/4),honorable mention(1/2))
 
 Projects
