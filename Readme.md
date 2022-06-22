@@ -6,7 +6,7 @@ Education
 ---------
 
 2018-2022 (expected)
-:   **BA, Applied Mathematics**; Zaporizhzhia National University
+:   **BS, Applied Mathematics**; Zaporizhzhia National University
 
 Skills
 ----------
