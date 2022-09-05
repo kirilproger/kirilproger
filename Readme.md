@@ -5,7 +5,7 @@ Petrushchenko Kyryl
 Education
 ---------
 
-2018-2022 (expected)
+2018-2022
 :   **BS, Applied Mathematics**; Zaporizhzhia National University
 
 Skills
